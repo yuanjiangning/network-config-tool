@@ -4,7 +4,7 @@
 
 ## 技术栈
 
-Python 3、Paramiko、openpyxl、SSH（华为 VRP）、Tkinter（可选 GUI）
+Python 3、Paramiko、openpyxl、SSH（华为 VRP）
 
 ## 功能
 
